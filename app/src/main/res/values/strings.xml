@@ -2,4 +2,6 @@
     <string name="app_name">TidyKit</string>
     <string name="tab_text_1">Flashlight</string>
     <string name="tab_text_2">Headphone Finder</string>
+    <string name="flashlight">Flashlight</string>
+    <string name="find">Find</string>
 </resources>
